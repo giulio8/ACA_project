@@ -11,15 +11,15 @@ id|activity|target_condition
 9|Giocare con palloni da calcio o da basket|1
 10|Guidare macchinine su piste o creare percorsi con ostacoli|1
 11|Saltare su trampolini o fare giri in bicicletta|1
-12|Creare opere d'arte con carta, colla e materiali riciclati|1
-13|Realizzare sculture con pasta modellabile o plastilina|1
-14|Dipingere con le dita o con spugne per esplorare diverse texture e tecniche|1
+12|Creare opere d'arte con carta, colla e materiali riciclati|2
+13|Realizzare sculture con pasta modellabile o plastilina|2
+14|Dipingere con le dita o con spugne per esplorare diverse texture e tecniche|2
 15|Associare immagini con parole corrispondenti|2
 16|Ordinare oggetti in base a dimensione, colore o forma|2
 17|Risolvere semplici problemi matematici utilizzando manipolativi|2
-18|Esplorare diverse consistenze con giochi di sabbia, farina o gelatina|2
-19|Scoprire nuovi odori e sapori attraverso attività di cucina o esperimenti sensoriali|2
-20|Ascoltare e identificare suoni con strumenti musicali o registrazioni|2
+18|Esplorare diverse consistenze con giochi di sabbia, farina o gelatina|3
+19|Scoprire nuovi odori e sapori attraverso attività di cucina o esperimenti sensoriali|3
+20|Ascoltare e identificare suoni con strumenti musicali o registrazioni|3
 21|Esplorare la natura e raccogliere oggetti come foglie, sassi o fiori|3
 22|Giocare con acqua e sabbia in un tavolo sensoriale|3
 23|Svolgere attività di coordinazione e equilibrio su scivoli o altalene|3
@@ -35,15 +35,15 @@ id|activity|target_condition
 33|Calciare una palla verso un obiettivo|1
 34|Corsa a ostacoli|1
 35|Giocare a tira e molla con una corda|1
-36|Creare braccialetti con perline|1
-37|Pittura su tela con pennelli|1
-38|Costruzione di modelli semplici con argilla|1
+36|Creare braccialetti con perline|2
+37|Pittura su tela con pennelli|2
+38|Costruzione di modelli semplici con argilla|2
 39|Leggere una storia semplice con immagini|2
 40|Costruire figure geometriche con bastoncini|2
 41|Risoluzione di semplici puzzle numerici|2
-42|Esplorazione di texture diverse con oggetti sensoriali|2
-43|Esperimenti di miscelazione con colori alimentari e acqua|2
-44|Ascolto e identificazione di versi di animali|2
+42|Esplorazione di texture diverse con oggetti sensoriali|3
+43|Esperimenti di miscelazione con colori alimentari e acqua|3
+44|Ascolto e identificazione di versi di animali|3
 45|Passeggiata nella natura con osservazione di piante e animali|3
 46|Costruzione di castelli di sabbia|3
 47|Percorso di equilibrio su travi e blocchi|3
@@ -59,15 +59,15 @@ id|activity|target_condition
 57|Lanciare palline in un canestro|1
 58|Gioco del bowling con bottiglie e palline|1
 59|Saltare la corda|1
-60|Realizzare un album fotografico con immagini ritagliate|1
-61|Creazione di mosaici con tessere colorate|1
-62|Stampare figure con stencil e colori|1
+60|Realizzare un album fotografico con immagini ritagliate|2
+61|Creazione di mosaici con tessere colorate|2
+62|Stampare figure con stencil e colori|2
 63|Scrivere e illustrare una breve storia|2
 64|Costruzione di strutture con cannucce e connettori|2
 65|Risoluzione di giochi di logica con immagini|2
-66|Manipolare schiuma da barba o gelatina|2
-67|Esperimenti con bicarbonato e aceto|2
-68|Creazione di strumenti musicali con materiali riciclati|2
+66|Manipolare schiuma da barba o gelatina|3
+67|Esperimenti con bicarbonato e aceto|3
+68|Creazione di strumenti musicali con materiali riciclati|3
 69|Osservazione di insetti con una lente di ingrandimento|3
 70|Giocare con bolle di sapone all'aperto|3
 71|Giochi di equilibrio con sacchi di fagioli|3
@@ -77,15 +77,15 @@ id|activity|target_condition
 75|Giocare con la plastilina per bambini con problemi motori|0
 76|Attività di pittura adattata con pennelli speciali|1
 77|Giochi di memoria con immagini tattili per bambini non vedenti|1
-78|Attività di ascolto di fiabe sonore|1
+78|Attività di ascolto di fiabe sonore|2
 79|Gioco del nascondino con suoni per bambini non udenti|2
-80|Manipolazione di oggetti di varie consistenze per bambini con disabilità sensoriali|2
+80|Manipolazione di oggetti di varie consistenze per bambini con disabilità sensoriali|3
 81|Percorsi sensoriali con materiali diversi|3
 82|Attività di giardinaggio per sviluppare la motricità fine|1
 83|Giochi di ruolo con supporti visivi per bambini autistici|1
-84|Creazione di storie attraverso immagini sequenziali|1
+84|Creazione di storie attraverso immagini sequenziali|2
 85|Gioco dell'oca con immagini tattili|2
-86|Realizzazione di puzzle tattili|2
+86|Realizzazione di puzzle tattili|3
 87|Percorsi motori con supporti per bambini con difficoltà di equilibrio|3
 88|Ballare seguendo musica semplice|0
 89|Riconoscere oggetti con il tatto|0
@@ -99,15 +99,15 @@ id|activity|target_condition
 97|Fare gare di corsa brevi|1
 98|Giocare a frisbee|1
 99|Fare tiro alla fune|1
-100|Costruzione di aquiloni|1
-101|Disegnare mappe semplici|1
-102|Realizzare decorazioni per le feste|1
+100|Costruzione di aquiloni|2
+101|Disegnare mappe semplici|2
+102|Realizzare decorazioni per le feste|2
 103|Scrivere lettere agli amici|2
 104|Creare modellini di veicoli|2
 105|Fare esperimenti scientifici semplici|2
-106|Giochi sensoriali con sabbia cinetica|2
-107|Realizzare figure con origami|2
-108|Ascoltare racconti di fiabe|2
+106|Giochi sensoriali con sabbia cinetica|3
+107|Realizzare figure con origami|3
+108|Ascoltare racconti di fiabe|3
 109|Osservare stelle con un piccolo telescopio|3
 110|Giochi di equilibrio su una trave|3
 111|Percorsi a ostacoli con materiali riciclati|3
